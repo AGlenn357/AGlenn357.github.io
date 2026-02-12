@@ -23,7 +23,7 @@ repository               : "AGlenn357/AGlenn357.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  #avatar           : "profile.png"
+  avatar           : "profile.png"
   name             : "Andrew Glenn"
   pronouns         : # example: "she/her"  
   bio              : "Aerospace Engineering PhD Student"
