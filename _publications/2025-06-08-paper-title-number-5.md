@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Analysis of Non-Gaussian Uncertainty Evolution in the Cislunar Domain"
 collection: publications
 category: conferences
 permalink: /publication/2025-06-08-paper-title-number-5
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'This paper analyzes non-Gaussian behavior in cislunar space'
+date: 2026-01-08
+venue: 'AIAA 2026 SciTech Forum'
+paperurl: 'https://doi.org/10.2514/6.2026-1851'
+citation: 'J. Zastrow, A. Glenn, P. Singla, C. Nebelecky, &quot;Analysis of Non-Gaussian Uncertainty Evolution in the Cislunar Domain&quot;, <i>AIAA 2026 SciTech Forum<i>, Orlando, FL, 2026.
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Skew and Kurtosis
