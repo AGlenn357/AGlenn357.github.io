@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-More coming soon
+Hello, my name is Andrew Glenn. I am a PhD student at Penn State studying aerospace engineering. My research focus is astrodynamics in cislunar space. I am a member of the Astrodynamics Research Groups of Penn State [ARGoPS](https://argops.psu.edu/). I am interested in the quantification of uncertainty for spacecraft in cislunar space.
