@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper compares the accuaracy to two uncertainty propagation algorithms.'
-date: 2024
+date: 2024-04-12
 venue: 'AIAA Regional Student Conference'
 paperurl: 'https://doi.org/10.2514/6.2024-84372'
 citation: 'Glenn, A., Singla, P., and Eapen, R., &quot;Quantifying State Error Growth and Consistency of Uncertainty Propagation Algorithms
