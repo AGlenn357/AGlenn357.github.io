@@ -16,22 +16,15 @@ Education
 * B.S. in Aerospace Engineering, Pennsylvania State University, May 2024
 * Diploma, Penn Manor High School, May 2021
 
-Work experience
+Engineering Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* DoD SMART Fellow: August 2024-Present
+  * Department of Defense Sciece, Mathematics, and Research for Transformation Fellowship
+  * Intern at the Air Force Research Lab working on the ORACLE-PRIME mission.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* AFRL Scholar: May 2024-August 2024
+  * Developed software from scratch to perform attitude control of a test article. Learned robotics tools
+(ROS2) to communicate simultaneously with multiple hardware components.
 
 Publications
 ======
