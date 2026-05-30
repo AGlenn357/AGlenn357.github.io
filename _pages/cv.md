@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Aerospace Engineering, Pennsylvania State University, Current
+* M.S. in Aerospace Engineering, Pennsylvania State University, May 2026 
+* B.S. in Aerospace Engineering, Pennsylvania State University, May 2024
+* Diploma, Penn Manor High School, May 2021
 
 Work experience
 ======
@@ -31,15 +32,6 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -47,18 +39,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Achievements and Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* First Place, Three Minute Thesis Competition, <i>2025 AAS/AIAA Space Flight Mechanics Meeting</i>
+* First Place, Senior Capstone, <i>2023/2024 AIAA Space Systems Design Competition</i>
