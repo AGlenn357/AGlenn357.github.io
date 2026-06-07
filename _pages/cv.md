@@ -20,7 +20,7 @@ Engineering Experience
 ======
 * DoD SMART Fellow: August 2024-Present
   * Department of Defense Sciece, Mathematics, and Research for Transformation Fellowship
-  * Intern at the Air Force Research Lab working on the ORACLE-PRIME mission.
+  * Intern at the Air Force Research Lab
 
 * AFRL Scholar: May 2024-August 2024
   * Developed software from scratch to perform attitude control of a test article. Learned robotics tools
