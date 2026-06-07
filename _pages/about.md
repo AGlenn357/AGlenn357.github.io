@@ -9,4 +9,4 @@ redirect_from:
 
 Hello, I am a PhD student at Penn State studying aerospace engineering. My researach focuses on guidance, navigation, and control in cislunar space. I am a member of the Astrodynamics Research Groups of Penn State [ARGoPS](https://argops.psu.edu/) as an advisee of [Dr. Puneet Singla](https://www.aero.psu.edu/department/directory-detail-g.aspx?q=pxs433).
 
-This page highlights some of my work and link to papers, presentations, and code.
+This page highlights some of my work and links to papers, presentations, and code.
